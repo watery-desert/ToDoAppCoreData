@@ -24,6 +24,7 @@
 		E282902D278212A100D387AA /* SheetBody.swift in Sources */ = {isa = PBXBuildFile; fileRef = E282902C278212A100D387AA /* SheetBody.swift */; };
 		E2DF293A2786A54E004B0C2D /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DF29392786A54E004B0C2D /* NotificationManager.swift */; };
 		E2DF293C2787298C004B0C2D /* ToDoCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DF293B2787298C004B0C2D /* ToDoCalendar.swift */; };
+		E2FEBF5E278819EB002F46E9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E2FEBF5D278819EB002F46E9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		E282902C278212A100D387AA /* SheetBody.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBody.swift; sourceTree = "<group>"; };
 		E2DF29392786A54E004B0C2D /* NotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationManager.swift; sourceTree = "<group>"; };
 		E2DF293B2787298C004B0C2D /* ToDoCalendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoCalendar.swift; sourceTree = "<group>"; };
+		E2FEBF5D278819EB002F46E9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		E20D2BF3277EF6CC00553736 = {
 			isa = PBXGroup;
 			children = (
+				E2FEBF5D278819EB002F46E9 /* README.md */,
 				E20D2BFE277EF6CC00553736 /* ToDoAppCoreData */,
 				E20D2BFD277EF6CC00553736 /* Products */,
 			);
@@ -220,6 +223,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2FEBF5E278819EB002F46E9 /* README.md in Resources */,
 				E20D2C07277EF6CD00553736 /* Preview Assets.xcassets in Resources */,
 				E20D2C04277EF6CD00553736 /* Assets.xcassets in Resources */,
 			);
