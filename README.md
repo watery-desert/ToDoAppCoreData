@@ -34,3 +34,8 @@ My first native iOS app in swiftUI
       </td>      
    </tr>
 </table>
+
+### Creadits
+
+<a href="https://www.freepik.com/vectors/coffee">Coffee vector created by stories - www.freepik.com</a>
+<a href="https://dribbble.com/shots/16313039-Liquid-Navigation-Design-Course-Trailer">Bottom sheet animation</a>
