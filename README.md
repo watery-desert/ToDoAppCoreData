@@ -10,7 +10,6 @@
    <a href="https://www.youtube.com/channel/UCMr8V70B4402CNOJEYQ30Qg">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/youtube.png" height="32" alt="youtube: watery_desert"></a>
 
-My first native iOS app in swiftUI
 
 ### Features
 
