@@ -1,7 +1,7 @@
 
 
 
-# ToDo App using Core Data
+# ToDo App
 
    <a href="https://www.instagram.com/watery_desert/">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/instagram.png" height="32" alt="instagram: watery_desert"></a>
