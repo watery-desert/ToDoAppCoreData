@@ -10,9 +10,13 @@
    <a href="https://www.youtube.com/channel/UCMr8V70B4402CNOJEYQ30Qg">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/youtube.png" height="32" alt="youtube: watery_desert"></a>
 
+My first native iOS app in swiftUI
+
+### Features
+
 MVVM + Core Data + Local Notification
 
-My first native iOS app in swiftUI
+
 
 ### Screen recordings
 
@@ -37,5 +41,6 @@ My first native iOS app in swiftUI
 
 ### Creadits
 
-<a href="https://www.freepik.com/vectors/coffee">Coffee vector created by stories - www.freepik.com</a>
-<a href="https://dribbble.com/shots/16313039-Liquid-Navigation-Design-Course-Trailer">Bottom sheet animation</a>
+<a href="https://www.freepik.com/vectors/coffee">1. Coffee vector created by stories - www.freepik.com</a>
+<div>
+<a href="https://dribbble.com/shots/16313039-Liquid-Navigation-Design-Course-Trailer">2. Bottom sheet animation - Cuberto</a>
