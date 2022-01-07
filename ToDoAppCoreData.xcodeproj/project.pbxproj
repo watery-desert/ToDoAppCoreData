@@ -25,6 +25,8 @@
 		E2DF293A2786A54E004B0C2D /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DF29392786A54E004B0C2D /* NotificationManager.swift */; };
 		E2DF293C2787298C004B0C2D /* ToDoCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DF293B2787298C004B0C2D /* ToDoCalendar.swift */; };
 		E2FEBF5E278819EB002F46E9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E2FEBF5D278819EB002F46E9 /* README.md */; };
+		E2FEBF6027885136002F46E9 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E2FEBF5F27885136002F46E9 /* LICENSE */; };
+		E2FEBF6227885165002F46E9 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E2FEBF6127885165002F46E9 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +49,8 @@
 		E2DF29392786A54E004B0C2D /* NotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationManager.swift; sourceTree = "<group>"; };
 		E2DF293B2787298C004B0C2D /* ToDoCalendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoCalendar.swift; sourceTree = "<group>"; };
 		E2FEBF5D278819EB002F46E9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E2FEBF5F27885136002F46E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		E2FEBF6127885165002F46E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,7 @@
 		E20D2BF3277EF6CC00553736 = {
 			isa = PBXGroup;
 			children = (
+				E2FEBF6127885165002F46E9 /* LICENSE */,
 				E2FEBF5D278819EB002F46E9 /* README.md */,
 				E20D2BFE277EF6CC00553736 /* ToDoAppCoreData */,
 				E20D2BFD277EF6CC00553736 /* Products */,
@@ -80,6 +85,7 @@
 		E20D2BFE277EF6CC00553736 /* ToDoAppCoreData */ = {
 			isa = PBXGroup;
 			children = (
+				E2FEBF5F27885136002F46E9 /* LICENSE */,
 				E20D2C0D277EFCC500553736 /* SourceCode */,
 				E20D2BFF277EF6CC00553736 /* ToDoAppCoreDataApp.swift */,
 				E20D2C03277EF6CD00553736 /* Assets.xcassets */,
@@ -225,7 +231,9 @@
 			files = (
 				E2FEBF5E278819EB002F46E9 /* README.md in Resources */,
 				E20D2C07277EF6CD00553736 /* Preview Assets.xcassets in Resources */,
+				E2FEBF6027885136002F46E9 /* LICENSE in Resources */,
 				E20D2C04277EF6CD00553736 /* Assets.xcassets in Resources */,
+				E2FEBF6227885165002F46E9 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
