@@ -1,6 +1,3 @@
-
-
-
 # ToDo App
 
    <a href="https://www.instagram.com/watery_desert/">
@@ -38,7 +35,7 @@ MVVM + Core Data + Local Notification
    </tr>
 </table>
 
-### Creadits
+### Credits
 
 <a href="https://www.freepik.com/vectors/coffee">1. Coffee vector created by stories - www.freepik.com</a>
 <div>
