@@ -1,15 +1,11 @@
 # ToDo App
 
-<!--<div align="center">-->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/watery_desert)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/watery_desert)](https://twitter.com/watery_desert)
-[![pub package](https://img.shields.io/pub/v/swipeable_tile.svg?style=for-the-badge)](https://pub.dev/packages/swipeable_tile)
-<!--</div>-->
 
 <a href="https://www.buymeacoffee.com/watery_desert"><img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/bmc-button.png" height="56"></a>
 
 <div>
-
 
 
 ### Features
