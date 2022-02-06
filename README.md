@@ -12,8 +12,8 @@
 
 ### Features
 
-✅ Used MVVM
-✅ Core Data
+✅ Used MVVM\
+✅ Core Data\
 ✅ Local Notification
 
 
